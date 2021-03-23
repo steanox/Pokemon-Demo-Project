@@ -13,6 +13,7 @@
 		7DA7A16825F73BF700FEBEE6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7DA7A16625F73BF700FEBEE6 /* Main.storyboard */; };
 		7DA7A16A25F73BF700FEBEE6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7DA7A16925F73BF700FEBEE6 /* Assets.xcassets */; };
 		7DA7A16D25F73BF700FEBEE6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7DA7A16B25F73BF700FEBEE6 /* LaunchScreen.storyboard */; };
+		7DA7A17925F7AEB800FEBEE6 /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA7A17825F7AEB800FEBEE6 /* Pokemon.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7DA7A16925F73BF700FEBEE6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7DA7A16C25F73BF700FEBEE6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7DA7A16E25F73BF700FEBEE6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7DA7A17825F7AEB800FEBEE6 /* Pokemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7DA7A16025F73BF700FEBEE6 /* AppDelegate.swift */,
 				7DA7A16225F73BF700FEBEE6 /* SceneDelegate.swift */,
 				7DA7A16425F73BF700FEBEE6 /* ViewController.swift */,
+				7DA7A17825F7AEB800FEBEE6 /* Pokemon.swift */,
 				7DA7A16625F73BF700FEBEE6 /* Main.storyboard */,
 				7DA7A16925F73BF700FEBEE6 /* Assets.xcassets */,
 				7DA7A16B25F73BF700FEBEE6 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7DA7A16525F73BF700FEBEE6 /* ViewController.swift in Sources */,
+				7DA7A17925F7AEB800FEBEE6 /* Pokemon.swift in Sources */,
 				7DA7A16125F73BF700FEBEE6 /* AppDelegate.swift in Sources */,
 				7DA7A16325F73BF700FEBEE6 /* SceneDelegate.swift in Sources */,
 			);
